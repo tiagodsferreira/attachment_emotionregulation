@@ -1,5 +1,8 @@
-# attachment_emotionregulation
-This repository includes the data and syntax used for the study "Parent-Partner and Parent-Child Attachment: Contributions to Children’s Emotion Regulation"
+# Parent-Partner and Parent-Child Attachment: Contributions to Children’s Emotion Regulation
+The study focuses on couple attachment, parenting relationships, and children’s emotion regulation over time. We investigated how parents’ attachment security shapes mother- and father-child attachment quality and analyzed the interconnections between mother- and father-child attachment quality and children’s emotion regulation.
+
+This repository includes the data and syntax used for running the study's analysis: measurements study, descriptive statistics, and structural equation modeling.
+
 
 
 
