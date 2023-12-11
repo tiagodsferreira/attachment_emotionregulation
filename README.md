@@ -4,7 +4,7 @@ The study focuses on couple attachment, parenting relationships, and children’
 This repository includes the data and syntax used for running the study's analysis: measurements study, descriptive statistics, and structural equation modeling.
 
 
-
+[![DOI](https://zenodo.org/badge/706183327.svg)](https://zenodo.org/doi/10.5281/zenodo.10357857)
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
