@@ -11,10 +11,10 @@ p_load(data.table, foreign, plyr, dplyr, haven, psych, nFactors, GPArotation, ps
 ###########################
 # The "imb_extractvars" function takes the imbalance data set and extracts all variables with the same name reported across informant and time. The arguments are:
 #DF = name of the data frame
-#varname: character vector of variable(s) name(s)
-#scale_name: character with the scale name
-#time: numeric vector with the assessment time(s) to extract (options are 1:4)
-#method: numeric vector with the method(s) to be extracted (1 = fathers report, 2 = mother report)
+# varname: character vector of variable(s) name(s)
+# scale_name: character with the scale name
+# time: numeric vector with the assessment time(s) to extract (options are 1:4)
+# method: numeric vector with the method(s) to be extracted (1 = fathers report, 2 = mother report)
 imb_extractvars <- function (DF, varname, scale_name=NULL, time=1:4, method=1:2) {
   char_time <- as.character(time)
   char_method <- as.character(method)
